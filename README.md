@@ -7,7 +7,7 @@ This was a very, *very*, **very** old book, which was guarded by a dragon called
 
 ### He went through *oceans* and **forests** to find the book **Secrets of Web Developpement**.
 
-### Until one day he found the **cave** where the drangon was hiding the *precious* book.  
+### Until one day he found the **cave** where the dragon was hiding the *precious* book.  
 So a knight came, armed with his flaming **keyboard sword** and firewall **shield**, determined to deliver the book to the princess so that they could code together forever and make plenty of websites. He travelled long and far in the lands of *Google* until he reached the Dragon's Lair.
 
 ### But this wasn't the end of the story. ###
