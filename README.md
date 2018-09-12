@@ -9,9 +9,12 @@ This was a very, *very*, **very** old book, which was guarded by a dragon called
 ### He went through *oceans* and **forests** to find the book of the **secrets of Web Developpement**.
 
 ### Until one day he found the **cave** where the drangon was hiding the *precious* book.  
-=======
+
 So a knight came, armed with his flaming **keyboard sword** and firewall **shield**, determined to deliver the book to the princess so that they could code together forever and make plenty of websites. He travelled long and far in the lands of *google* until he reached the dragon's lair.
->>>>>>> c3e8aee6adc9bd1ffe2867682d2b85e713141b8f
+
+* The knight once arrived at the dragon's lair he advanced in the dragon's lair 
+* Once entered in the lair he took out he's sword and shield
+* And he goes on deep in the cavern to find the dragon to slay it.
 
 * La historia comienza cuando comenze aprender a usar git en mi terminal,
 * Descubri que git et github no es la misma cosa,
